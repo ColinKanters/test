@@ -10,7 +10,7 @@ public class Oefening0901 extends JFrame {
    
     public static void main(String[] args) {
         JFrame frame = new Oefening0901();
-        frame.setSize(450,340);
+        frame.setSize(450,350);
         frame.setLocation(700,300);
         frame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
         frame.setTitle("Kleine rekenmachine");
